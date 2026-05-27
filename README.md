@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, My name is Sayan</h1>
 
-<h3 align="center">
+<h2 align="center">
 Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
-</h3>
+</h2>
 
 - 🔭 Currently learning **x86_64 assembly, Malware Analysis & DFIR**
 
@@ -16,11 +16,16 @@ Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 
 - 📫 How to reach me: https://k1ndlov3r.com/contact/
 
+- ## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 - ## ⚒️ Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,bash,windows,powershell,python,vscode,obsidian" />
 
 <br><br>
 
