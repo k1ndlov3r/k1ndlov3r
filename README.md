@@ -4,7 +4,7 @@
 Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 </h3>
 
-- 🔭 Currently learning **x86_64 assembly, Malware Analysis % DFIR **
+- 🔭 Currently learning **x86_64 assembly, Malware Analysis & DFIR**
 
 - 🛡️ Exploring **SOC Operations, SIEM & Incident Response**
 
