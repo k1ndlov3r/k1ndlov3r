@@ -3,9 +3,7 @@
 <h3 align="center">
 Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 </h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+DFIR+%26+Malware+Analyst;Incident+Response+%E2%80%A2+Blue+Teaming" alt="Typing SVG" />
-</p>
+
 - 🔭 Currently learning **x86_64 assembly, Malware Analysis % DFIR **
 
 - 🛡️ Exploring **SOC Operations, SIEM & Incident Response**
