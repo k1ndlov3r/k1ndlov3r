@@ -18,21 +18,21 @@ Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 
 - ## 🔍 Featured DFIR Case Studies
 
-### 🧩 Detecting DLL Hijacking Using Sysmon
-Detection of suspicious DLL loads using Sysmon Event ID 7 and Windows module analysis.  
-🔗 https://medium.com/@k1ndlov3r/detecting-dll-hijacking-using-sysmon-a552f59117c1
+- ### 🧩 Detecting DLL Hijacking Using Sysmon
+- Detection of suspicious DLL loads using Sysmon Event ID 7 and Windows module analysis.  
+- 🔗 https://medium.com/@k1ndlov3r/detecting-dll-hijacking-using-sysmon-a552f59117c1
 
-### 💉 Detecting C# Injection Through Unmanaged PowerShell
-Detection strategies for unmanaged PowerShell sessions, CLR module loads, and injected .NET assemblies.  
-🔗 https://medium.com/the-detection-engineer/detecting-c-injection-through-unmanaged-powershell-session-f69af9447c1d
+- ### 💉 Detecting C# Injection Through Unmanaged PowerShell
+- Detection strategies for unmanaged PowerShell sessions, CLR module loads, and injected .NET assemblies.  
+- 🔗 https://medium.com/the-detection-engineer/detecting-c-injection-through-unmanaged-powershell-session-f69af9447c1d
 
-### 📜 Windows Log File Analysis Using Sysmon
-Threat investigation using Sysmon telemetry, Windows event logs, and endpoint activity analysis.  
-🔗 https://medium.com/@k1ndlov3r/windows-log-file-analysis-using-sysmon-d8247c5218fe
+- ### 📜 Windows Log File Analysis Using Sysmon
+- Threat investigation using Sysmon telemetry, Windows event logs, and endpoint activity analysis.  
+- 🔗 https://medium.com/@k1ndlov3r/windows-log-file-analysis-using-sysmon-d8247c5218fe
 
-### 🚨 Indicators of Compromise (IOCs)
-Understanding and identifying IOCs for threat detection and incident response investigations.  
-🔗 https://medium.com/@k1ndlov3r/indicators-of-compromise-iocs-8522f5090917
+- ### 🚨 Indicators of Compromise (IOCs)
+- Understanding and identifying IOCs for threat detection and incident response investigations.  
+- 🔗 https://medium.com/@k1ndlov3r/indicators-of-compromise-iocs-8522f5090917
 
 - ## 📝 Latest Security Research
 
