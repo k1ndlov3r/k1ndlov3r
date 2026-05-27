@@ -19,6 +19,7 @@ Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 - ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🛡️Rapid Triage Analysis of a Suspected MongoDB Server Compromise](https://k1ndlov3r.com/blog/rapid-triage-mongodb-server/)
 <!-- BLOG-POST-LIST:END -->
 
 - ## ⚒️ Tools & Technologies
