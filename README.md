@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, My name is Sayan</h1>
-
+<!--
 <h3 align="center">
 Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 </h3>
+-->
+```bash
+$ whoami
+DFIR learner & defensive security enthusiast
+
+$ current_focus
+Threat Hunting | Malware Analysis | Incident Response
 
 - 🔭 Currently learning **x86_64 assembly, Malware Analysis & DFIR**
 
