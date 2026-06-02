@@ -14,7 +14,7 @@ Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 
 - 💬 Ask me about **Linux, Networking, Blue Teaming & Security Tools**
 
-- 📫 How to reach me: https://k1ndlov3r.com/contact/
+- 📫 How to reach me: k1ndlov3r on discord
 
 - ## 🔍 Featured DFIR Case Studies
 
