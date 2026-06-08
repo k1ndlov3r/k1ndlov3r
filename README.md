@@ -37,6 +37,7 @@ Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 - ## 📝 Latest Security Research
 
 <!-- BLOG-POST-LIST:START -->
+- [Investigating an SSH Brute-Force Attack Through Linux Authentication Logs](https://k1ndlov3r.com/blog/ssh-bruteforce-investigation-linux-auth-logs/)
 - [🛡️Rapid Triage Analysis of a Suspected MongoDB Server Compromise](https://k1ndlov3r.com/blog/rapid-triage-mongodb-server/)
 <!-- BLOG-POST-LIST:END -->
 
