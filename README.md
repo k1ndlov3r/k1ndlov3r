@@ -4,7 +4,7 @@
 Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 </h2>
 
-- 🔭 Currently pursuing **M.Sc in Cyber Forensics and Information Security**
+- 🎓 Currently pursuing **M.Sc in Cyber Forensics and Information Security**
 
 - 🛡️ Practicing **SOC, DFIR and Malware Analysis**
 
