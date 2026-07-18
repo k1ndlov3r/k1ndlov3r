@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, My name is Sayan</h1>
+<h1 align="center">Hello 👋, My name is Sayan</h1>
 
 <h2 align="center">
 Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 </h2>
 
-- 🔭 Currently learning **x86_64 assembly, Malware Analysis & DFIR**
+- 🔭 Currently pursuing **M.Sc in Cyber Forensics and Information Security**
 
-- 🛡️ Exploring **SOC Operations, SIEM & Incident Response**
-
-- 🧪 Practicing malware analysis using **REMnux, Wireshark & Sysmon**
+- 🛡️ Practicing **SOC, DFIR and Malware Analysis**
 
 - 📝 Writing security blogs and DFIR walkthroughs on my website
 
