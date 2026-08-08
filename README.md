@@ -35,6 +35,7 @@ Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 - ## 📝 Latest Security Research
 
 <!-- BLOG-POST-LIST:START -->
+- [From Indicators to Intelligence: Investigating Threat Activity with ThreatFox](https://k1ndlov3r.com/blog/threatfox-threat-intelligence-investigation/)
 - [🔎 Investigating a Windows RDP Compromise Using DeepBlueCLI](https://k1ndlov3r.com/blog/windows-rdp-incident-response-deepbluecli/)
 - [Investigating Malicious Activity Through NTFS Metadata](https://k1ndlov3r.com/blog/windows-mft-forensics-ntfs-investigation/)
 - [Investigating an SSH Brute-Force Attack Through Linux Authentication Logs](https://k1ndlov3r.com/blog/ssh-bruteforce-investigation-linux-auth-logs/)
