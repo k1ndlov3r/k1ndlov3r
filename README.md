@@ -4,13 +4,13 @@
 Aspiring DFIR & Malware Analyst | Incident Response • Blue Teaming
 </h2>
 
-- 🎓 Currently pursuing **M.Sc in Cyber Forensics and Information Security**
+- 🎓 Currently pursuing **M.Sc. in Cyber Forensics and Information Security**
 
-- 🛡️ Practicing **SOC, DFIR and Malware Analysis**
+- 🛡️ Practicing **Reverse engineering and Malware analysis**
 
 - 📝 Writing security blogs and DFIR walkthroughs on my website
 
-- 💬 Ask me about **Linux, Networking, Blue Teaming & Security Tools**
+- 💬 Ask me about **Networking, Infosec, Blue Teaming & Security Tools**
 
 - 📫 How to reach me: k1ndlov3r on discord
 
